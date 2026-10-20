@@ -1,0 +1,1 @@
+Full FMECA worksheet for subsea Christmas tree (10+ failure modes), physics parameters mapped to ML feature strategies, two physics models implemented and validated, risk matrix plot with RPN annotations. Notebook + FMECA CSV.
