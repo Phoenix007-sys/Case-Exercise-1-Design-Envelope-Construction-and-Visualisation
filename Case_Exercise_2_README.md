@@ -1,0 +1,1 @@
+De Waard-Milliams model with unit tests, synthetic 10-year SCADA dataset for Usan field, PhysicsFeaturePipeline applied for monthly corrosion rates, RUL calculated for 6 jumpers with colour-coded risk visualisation. Notebook + enriched C
